@@ -55,6 +55,10 @@ main{
     cursor: pointer;
 }
 
+.dice--number {
+  font-size: 2rem;
+}
+
 .roll-dice {
   height: 50px;
   width: 150px;
